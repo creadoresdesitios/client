@@ -4,7 +4,7 @@
     "url": "https://www.creadoresdesitios.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.creadoresdesitios.com.ar",
     "slug": "creadores-de-sitios",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 507,
     "timeYear": 624,
     "dailyMinutesDown": {
+      "2022-04-08": 0,
       "2022-03-14": 87,
       "2022-02-16": 31
     }
