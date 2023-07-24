@@ -28,18 +28,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
     "timeDay": 203,
     "timeWeek": 148,
     "timeMonth": 118,
     "timeYear": 109,
-    "dailyMinutesDown": {
-      "2023-07-23": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
