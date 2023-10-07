@@ -25,18 +25,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 158,
-    "timeWeek": 115,
-    "timeMonth": 124,
-    "timeYear": 114,
-    "dailyMinutesDown": {}
+    "timeDay": 244,
+    "timeWeek": 154,
+    "timeMonth": 135,
+    "timeYear": 115,
+    "dailyMinutesDown": {
+      "2023-10-07": 0
+    }
   },
   {
     "name": "Hacker News",
