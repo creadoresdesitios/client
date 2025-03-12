@@ -4,7 +4,7 @@
     "url": "https://www.creadoresdesitios.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.creadoresdesitios.com.ar.ico",
     "slug": "creadores-de-sitios",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1576,
     "timeYear": 1614,
     "dailyMinutesDown": {
+      "2025-03-12": 0,
       "2024-12-13": 42,
       "2024-12-12": 169,
       "2024-11-06": 20
