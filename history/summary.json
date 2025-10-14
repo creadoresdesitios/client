@@ -34,8 +34,8 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
@@ -44,7 +44,6 @@
     "timeMonth": 136,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2025-10-13": 2,
       "2025-07-09": 21
     }
   },
