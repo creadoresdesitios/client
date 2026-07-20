@@ -4,17 +4,17 @@
     "url": "https://www.creadoresdesitios.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.creadoresdesitios.com.ar.ico",
     "slug": "creadores-de-sitios",
-    "status": "down",
+    "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "76.97%",
-    "uptimeWeek": "58.01%",
-    "uptimeMonth": "63.77%",
-    "uptimeYear": "96.98%",
-    "time": 4514,
-    "timeDay": 7421,
-    "timeWeek": 9575,
-    "timeMonth": 9700,
-    "timeYear": 5353,
+    "uptimeDay": "74.82%",
+    "uptimeWeek": "57.35%",
+    "uptimeMonth": "63.57%",
+    "uptimeYear": "96.96%",
+    "time": 4533,
+    "timeDay": 10198,
+    "timeWeek": 9775,
+    "timeMonth": 9750,
+    "timeYear": 5370,
     "dailyMinutesDown": {
       "2026-06-22": 839,
       "2026-06-23": 593,
@@ -44,7 +44,7 @@
       "2026-07-17": 841,
       "2026-07-18": 677,
       "2026-07-19": 579,
-      "2026-07-20": 174
+      "2026-07-20": 262
     }
   },
   {
