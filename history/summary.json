@@ -7,9 +7,9 @@
     "status": "down",
     "uptime": "99.04%",
     "uptimeDay": "47.39%",
-    "uptimeWeek": "49.39%",
-    "uptimeMonth": "53.53%",
-    "uptimeYear": "95.56%",
+    "uptimeWeek": "48.79%",
+    "uptimeMonth": "53.39%",
+    "uptimeYear": "95.55%",
     "time": 6598,
     "timeDay": 4918,
     "timeWeek": 10672,
@@ -52,7 +52,7 @@
       "2026-09-25": 785,
       "2026-09-26": 958,
       "2026-09-27": 827,
-      "2026-09-28": 0
+      "2026-09-28": 61
     }
   },
   {
