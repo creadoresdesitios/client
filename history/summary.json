@@ -6,14 +6,14 @@
     "slug": "creadores-de-sitios",
     "status": "down",
     "uptime": "98.61%",
-    "uptimeDay": "85.08%",
-    "uptimeWeek": "61.59%",
-    "uptimeMonth": "59.90%",
-    "uptimeYear": "93.43%",
+    "uptimeDay": "82.21%",
+    "uptimeWeek": "60.92%",
+    "uptimeMonth": "59.74%",
+    "uptimeYear": "93.42%",
     "time": 6935,
-    "timeDay": 8959,
+    "timeDay": 6426,
     "timeWeek": 6421,
-    "timeMonth": 7846,
+    "timeMonth": 7790,
     "timeYear": 7707,
     "dailyMinutesDown": {
       "2026-09-12": 342,
@@ -74,7 +74,7 @@
       "2026-11-05": 668,
       "2026-11-06": 957,
       "2026-11-07": 259,
-      "2026-11-08": 78
+      "2026-11-08": 146
     }
   },
   {
@@ -89,7 +89,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 120,
-    "timeDay": 91,
+    "timeDay": 82,
     "timeWeek": 93,
     "timeMonth": 86,
     "timeYear": 112,
@@ -114,9 +114,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 289,
-    "timeDay": 232,
+    "timeDay": 375,
     "timeWeek": 224,
-    "timeMonth": 238,
+    "timeMonth": 233,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2026-04-07": 82
